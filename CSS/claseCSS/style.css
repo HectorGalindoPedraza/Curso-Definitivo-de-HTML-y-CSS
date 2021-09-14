@@ -1,0 +1,26 @@
+        /* Selector Universal */
+
+* {                             
+    margin: 0;
+    padding: 0;
+}
+
+        /* Selector de etiqueta */
+
+p {                            
+    color: blue;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+        /* Selector de clase */
+
+.parrafo{
+    color: green;
+}
+
+        /* Selector de id */
+#texto{
+    color: blue;
+    font-size: 50px;
+}
