@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1 {
+    font-family: serif;
+    color: purple;
+    margin-bottom: 10px;
+}
+
+.title{
+    font-size: 18px;
+    font-family: monospace;
+}
+.nav{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0px;
+}
+.nav li{
+    display: inline-block;
+}
+.nav a{
+        color: #fff;
+        background-color: #13a4a4;
+        padding: 5px 10px;
+        border-radius: 2px;
+        text-decoration: none;
+    }
+.nav .blog{
+    background-color: #f00;
+}
