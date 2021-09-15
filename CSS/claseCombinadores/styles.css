@@ -1,3 +1,4 @@
-h2 ~ p {
-    color: red;
+/*  Combinador de hijo */
+div > p {              
+    color: #f00;
 }
