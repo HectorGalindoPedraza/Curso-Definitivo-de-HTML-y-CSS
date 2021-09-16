@@ -1,0 +1,33 @@
+.block-element{
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+}
+.nav{
+    background-color: peachpuff;
+    padding: 20px;
+    list-style: none;
+    text-align: center; 
+    border: 2px solid lightsalmon;
+    border-radius: 2px;
+    font-family: sans-serif;
+}
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nav a {
+    text-decoration: none;
+    color: #000;
+}
+.nav a:hover{
+    border: 2px solid lightsalmon;
+    background-color: rgb(255, 169, 136);
+    border-radius: 2px;
+    color: whitesmoke;
+    padding: 4px;
+    justify-content: ;
+}
